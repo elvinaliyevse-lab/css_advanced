@@ -1,0 +1,1 @@
+This project builds a polished landing page for a mock education platform using advanced HTML and CSS techniques, with a dark hero banner, instructor highlights, testimonials, tutorials, membership cards, FAQ, and a styled footer. <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80" alt="Learning design preview" />
